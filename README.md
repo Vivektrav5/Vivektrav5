@@ -1,6 +1,6 @@
 # Vivek Kumar
 
-![Profile Banner](images/DSC_0495_filtered.jpg)
+![Profile Banner](DSC_0495_filtered.jpg)
 
 ## 👨‍💻 SharePoint & Power Platform Developer | Data Scientist (MBA)
 
