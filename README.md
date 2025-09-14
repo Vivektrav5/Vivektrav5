@@ -1,6 +1,6 @@
 # Vivek Kumar
 
-![Profile Banner](https://github.com/Vivektrav5/Vivek-portfolio/blob/main/DSC_0495_filtered.jpg)
+<img src="https://github.com/Vivektrav5/Vivek-portfolio/blob/main/DSC_0495_filtered.jpg" width="150"/>
 
 ## 👨‍💻 SharePoint & Power Platform Developer | Data Scientist (MBA)
 
