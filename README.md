@@ -92,7 +92,7 @@ Currently pursuing an MBA in Data Science. Skilled in analytics, machine learnin
 - **Phone:** +91 954065361
 - **LinkedIn:** [linkedin.com/in/vivek-kumara](https://www.linkedin.com/in/vivek-kumara)
 - **GitHub:** [Vivektrav5](https://github.com/Vivektrav5)
-- **Portfolio:** [vivekkumarportfolio.com](https://vivekkumarportfolio.com)
+- **Portfolio:** [vivekkumarportfolio.com](https://github.com/Vivektrav5)
 
 ---
 
